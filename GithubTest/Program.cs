@@ -10,7 +10,7 @@ namespace GithubTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Привет, Мир!");
+            Console.WriteLine("Привет, Мир2!");
             Console.ReadKey();
         }
     }
